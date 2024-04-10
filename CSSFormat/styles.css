@@ -63,6 +63,18 @@ body
     margin:0;
 }
 
+.title 
+{
+    margin-left:50%;
+    margin-right:30%;
+    color:lightgrey
+}
+.storetitle 
+{
+    margin-left:30%;
+    margin-right:30%;
+    color:lightgrey
+}
 h1 
 {
     color:white;
@@ -73,7 +85,6 @@ h2
     color:lightgrey
     
 }
-
 h3
 {
     color:lightgrey;
@@ -112,8 +123,17 @@ h3
     width: 65%;
     float:left;
 }
-
+.left
+ {
+    width: 65%;
+    float:right;
+}
 .section 
 {
     
+}
+.maps 
+{
+margin-left:10%;
+margin-right:10;
 }
